@@ -58,4 +58,10 @@ Total 1 persons.
 
 ## Phonebook v2
 
-### 기능
+### v2 추가 기능
+
+- **read {file name}**: 파일로부터 데이터를 읽어옴
+
+- **save as {file name}**: 파일에 데이터를 저장
+
+- **정렬**: 항상 알파벳 순으로 정렬
