@@ -22,9 +22,9 @@ John was added successfully.
 
 David was added successfully.
 
-**$ fine Henry**
+**$ fine Tony**
 
-No person named ‘Henry’ exists.
+No person named ‘Tony’ exists.
 
 **$ fine David**
 
