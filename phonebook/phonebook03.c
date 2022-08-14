@@ -142,26 +142,6 @@ int main() {
 
   init_directory();
   process_command();
-  // char command[BUFFER_SIZE];
-
-  // while (1) {
-  //   printf("$ ");
-  //   scanf("%s", command);
-
-  //   if (strcmp(command, "add") == 0)
-  //     add();
-  //   else if (strcmp(command, "find") == 0)
-  //     find();
-  //   else if (strcmp(command, "status") == 0)
-  //     status();
-  //   else if (strcmp(command, "delete") == 0)
-  //     delete();
-  //   else if (strcmp(command, "read") == 0)
-  //     load();
-  //   else if (strcmp(command, "save as") == 0)
-  //     save();
-  //   else if (strcmp(command, "exit") == 0)
-  //     break;
-  // }
+  
   return 0;
 }
